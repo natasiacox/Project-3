@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Hello World" default="HelloWorld">
+    
+
+	  <target name="HelloWorld">
+	  	
+	  	<echo>Hello World!</echo>
+	  	
+	  	<echo>This a practice Ant build!</echo>
+	  	
+	  </target>
+	
+   
+</project>
